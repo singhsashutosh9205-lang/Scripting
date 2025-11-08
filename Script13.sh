@@ -4,6 +4,7 @@ echo "Please enter the vaule of a"
 read a
 echo "Please enter the vaule of b"
 read b
+echo "My name is Ashutosh and i love my baby"
 
 if [ $a != $b ]
 then
